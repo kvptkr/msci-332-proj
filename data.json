@@ -3,8 +3,8 @@
     "restaurant_width": 15,
     "customer_goodwill": 100,
     "randomly_generated_data": true,
-    "revenue_goal": 15000,
-    "max_party_size": 8,
+    "revenue_goal": 20000,
+    "max_party_size": 6,
     "marginal_revenue": {
         "2": 26,
         "3": 23,

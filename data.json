@@ -4,7 +4,7 @@
     "customer_goodwill": 100,
     "randomly_generated_data": true,
     "revenue_goal": 20000,
-    "max_party_size": 6,
+    "max_party_size": 8,
     "marginal_revenue": {
         "2": 26,
         "3": 23,

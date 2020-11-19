@@ -1,6 +1,6 @@
 {
-    "restaurant_length": 15,
-    "restaurant_width": 15,
+    "restaurant_length": 10,
+    "restaurant_width": 10,
     "customer_goodwill": 100,
     "randomly_generated_data": true,
     "revenue_goal": 20000,

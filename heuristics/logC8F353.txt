@@ -1,0 +1,172 @@
+Initialized parameters: T_0 = 256.40, alpha = 0.5, m = 3, k = 6, iterations = 18
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #4, adding table #6
+old revenue=1282
+there's still more space, adding table #11
+old revenue=1282
+Completed Iteration = 0
+Updating T... T_0 = 128.20
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+removing table #4, adding table #10
+old revenue=1282
+there's still more space, adding table #6
+old revenue=1282
+Completed Iteration = 1
+Updating T... T_1 = 128.20
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+removing table #0, adding table #11
+old revenue=1282
+there's still more space, adding table #7
+old revenue=1282
+Completed Iteration = 2
+Updating T... T_2 = 64.10
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #3, adding table #12
+old revenue=1282
+there's still more space, adding table #6
+old revenue=1282
+Completed Iteration = 3
+Updating T... T_3 = 64.10
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+removing table #1, adding table #6
+old revenue=1282
+Objective Function value after swaps 1318
+ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 4
+Updating T... T_4 = 32.05
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+removing table #3, adding table #10
+old revenue=1282
+there's still more space, adding table #6
+old revenue=1282
+Completed Iteration = 5
+Updating T... T_5 = 32.05
+
+
+RANDOMLY GENERATED TIMESLOT: 1
+removing table #5, adding table #9
+old revenue=1282
+there's still more space, adding table #8
+old revenue=1282
+Completed Iteration = 6
+Updating T... T_6 = 16.03
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+removing table #4, adding table #6
+old revenue=1282
+Objective Function value after swaps 1250
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #12
+old revenue=1282
+Completed Iteration = 7
+Updating T... T_7 = 16.03
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #2, adding table #8
+old revenue=1282
+there's still more space, adding table #6
+old revenue=1282
+Completed Iteration = 8
+Updating T... T_8 = 8.01
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+removing table #3, adding table #7
+old revenue=1282
+Objective Function value after swaps 1282
+ACCEPTING CANDIDATE WITH PROBABILITY 0.5138781302531408 < 1.0
+Completed Iteration = 9
+Updating T... T_9 = 8.01
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+removing table #0, adding table #9
+old revenue=1282
+Objective Function value after swaps 1330
+ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 10
+Updating T... T_10 = 4.01
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+removing table #0, adding table #7
+old revenue=1282
+Objective Function value after swaps 1282
+ACCEPTING CANDIDATE WITH PROBABILITY 0.3182846299245693 < 1.0
+Completed Iteration = 11
+Updating T... T_11 = 4.01
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+removing table #3, adding table #9
+old revenue=1282
+there's still more space, adding table #8
+old revenue=1282
+Completed Iteration = 12
+Updating T... T_12 = 2.00
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+removing table #4, adding table #7
+old revenue=1282
+Objective Function value after swaps 1282
+ACCEPTING CANDIDATE WITH PROBABILITY 0.21136185816092812 < 1.0
+Completed Iteration = 13
+Updating T... T_13 = 2.00
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+removing table #2, adding table #7
+old revenue=1282
+Objective Function value after swaps 1214
+REJECTING CANDIDATE SOLUTION
+Completed Iteration = 14
+Updating T... T_14 = 1.00
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #4, adding table #10
+old revenue=1282
+there's still more space, adding table #13
+old revenue=1282
+Completed Iteration = 15
+Updating T... T_15 = 1.00
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+removing table #1, adding table #6
+old revenue=1282
+Objective Function value after swaps 1131
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #7
+old revenue=1282
+Completed Iteration = 16
+Updating T... T_16 = 0.50
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+removing table #0, adding table #9
+old revenue=1282
+there's still more space, adding table #6
+old revenue=1282
+Completed Iteration = 17
+Updating T... T_17 = 0.50
+
+
+
+
+--- 0.011886835098266602 seconds ---
+

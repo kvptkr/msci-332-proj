@@ -1,0 +1,84 @@
+Initialized parameters: T_0 = 203.80, alpha = 0.5, m = 2, k = 6, iterations = 12
+
+RANDOMLY GENERATED TIMESLOT: 3
+evaluating removing table #1
+evaluating adding table #7change in space = -6change in revenue = -171REJECTING CANDIDATE SOLUTION
+Completed Iteration = 0
+Updating T... T_[9, 2, 6, '', 0, 1019] = 101.90
+
+
+RANDOMLY GENERATED TIMESLOT: 1
+evaluating removing table #0
+evaluating adding table #8evaluating adding table #9change in space = 0change in revenue = -136REJECTING CANDIDATE SOLUTION
+Completed Iteration = 1
+Updating T... T_[9, 2, 6, '', 0, 1019] = 101.90
+
+
+RANDOMLY GENERATED TIMESLOT: 1
+evaluating removing table #1
+evaluating adding table #7change in space = -6change in revenue = -171REJECTING CANDIDATE SOLUTION
+Completed Iteration = 2
+Updating T... T_[9, 2, 6, '', 0, 1019] = 50.95
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+evaluating removing table #2
+evaluating adding table #7change in space = -6change in revenue = -68REJECTING CANDIDATE SOLUTION
+Completed Iteration = 3
+Updating T... T_[9, 2, 6, '', 0, 1019] = 50.95
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #1
+evaluating adding table #11change in space = -6change in revenue = -115REJECTING CANDIDATE SOLUTION
+Completed Iteration = 4
+Updating T... T_[9, 2, 6, '', 0, 1019] = 25.48
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+RANDOMLY GENERATED TIMESLOT: 1
+evaluating removing table #4
+evaluating adding table #8change in space = -6change in revenue = -68REJECTING CANDIDATE SOLUTION
+Completed Iteration = 6
+Updating T... T_[9, 2, 6, '', 0, 1019] = 12.74
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #1
+evaluating adding table #10evaluating adding table #11change in space = 0change in revenue = -136REJECTING CANDIDATE SOLUTION
+Completed Iteration = 7
+Updating T... T_[9, 2, 6, '', 0, 1019] = 12.74
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+evaluating removing table #5
+evaluating adding table #6change in space = -3change in revenue = -99REJECTING CANDIDATE SOLUTION
+Completed Iteration = 8
+Updating T... T_[9, 2, 6, '', 0, 1019] = 6.37
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+evaluating removing table #5
+evaluating adding table #8evaluating adding table #9change in space = 3change in revenue = -64REJECTING CANDIDATE SOLUTION
+Completed Iteration = 9
+Updating T... T_[9, 2, 6, '', 0, 1019] = 6.37
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+evaluating removing table #3
+evaluating adding table #10evaluating adding table #6change in space = 6change in revenue = 17ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 10
+Updating T... T_{'party': 14, 'timeslot': 3, 'party_size': 2, 'seated': 0} = 3.18
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #4
+evaluating adding table #11change in space = -3change in revenue = -80REJECTING CANDIDATE SOLUTION
+Completed Iteration = 11
+Updating T... T_{'party': 14, 'timeslot': 3, 'party_size': 2, 'seated': 0} = 3.18
+
+
+
+
+--- 0.041290998458862305 seconds ---
+

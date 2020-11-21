@@ -1,0 +1,33 @@
+Initialized parameters: T_0 = 3607.00, alpha = 0.4, m = 2, k = 6, iterations = 12
+
+RANDOMLY GENERATED TIMESLOT: 1
+evaluating removing table #4
+evaluating adding table #6change in space = 0change in revenue = 0ACCEPTING CANDIDATE WITH PROBABILITY 0.6220387496634157 < 1.0
+current spaced occupied for timeslot 1 = 99new spaced occupied for timeslot 1 = 99Completed Iteration = 0
+Updating T... T_{'party': 10, 'timeslot': 1, 'party_size': 3, 'seated': 0} = 1442.80
+
+
+RANDOMLY GENERATED TIMESLOT: 1
+evaluating removing table #0
+evaluating adding table #4change in space = -3change in revenue = -120ACCEPTING CANDIDATE WITH PROBABILITY 0.05059405639338643 < 0.9201932186146831
+current spaced occupied for timeslot 1 = 99new spaced occupied for timeslot 1 = 96Completed Iteration = 1
+Updating T... T_{'party': 10, 'timeslot': 1, 'party_size': 3, 'seated': 0} = 1442.80
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #0
+evaluating adding table #7evaluating adding table #11change in space = 3change in revenue = -84ACCEPTING CANDIDATE WITH PROBABILITY 0.636457107333961 < 0.9434422469660049
+current spaced occupied for timeslot 2 = 93new spaced occupied for timeslot 2 = 96Completed Iteration = 2
+Updating T... T_{'party': 13, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 577.12
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+evaluating removing table #1
+evaluating adding table #7evaluating adding table #5change in space = 9change in revenue = 15ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 3
+Updating T... T_{'party': 9, 'timeslot': 6, 'party_size': 2, 'seated': 0} = 577.12
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+evaluating removing table #1
+evaluating adding table #7

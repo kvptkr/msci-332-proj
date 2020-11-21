@@ -1,0 +1,76 @@
+Initialized parameters: T_0 = 3809.50, alpha = 0.2, m = 2, k = 5, iterations = 10
+
+RANDOMLY GENERATED TIMESLOT: 3
+evaluating removing table #2
+evaluating adding table #5change in space = 0change in revenue = 0ACCEPTING CANDIDATE WITH PROBABILITY 0.1268494456685394 < 1.0
+current spaced occupied for timeslot 3 = 99new spaced occupied for timeslot 3 = 99Completed Iteration = 0
+Updating T... T_{'party': 13, 'timeslot': 3, 'party_size': 3, 'seated': 0} = 761.90
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #2
+evaluating adding table #7change in space = -3change in revenue = -120REJECTING CANDIDATE SOLUTION
+Completed Iteration = 1
+Updating T... T_{'party': 13, 'timeslot': 3, 'party_size': 3, 'seated': 0} = 761.90
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #5
+evaluating adding table #7change in space = 0change in revenue = 0ACCEPTING CANDIDATE WITH PROBABILITY 0.2942943541939822 < 1.0
+current spaced occupied for timeslot 2 = 99new spaced occupied for timeslot 2 = 99Completed Iteration = 2
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 152.38
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #4
+evaluating adding table #9change in space = -3change in revenue = -99REJECTING CANDIDATE SOLUTION
+Completed Iteration = 3
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 152.38
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #2
+evaluating adding table #7change in space = -3change in revenue = -120REJECTING CANDIDATE SOLUTION
+Completed Iteration = 4
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 30.48
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+evaluating removing table #4
+evaluating adding table #6evaluating adding table #7change in space = 0change in revenue = -99REJECTING CANDIDATE SOLUTION
+Completed Iteration = 5
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 30.48
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+evaluating removing table #4
+evaluating adding table #11change in space = -3change in revenue = -64REJECTING CANDIDATE SOLUTION
+Completed Iteration = 6
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 6.10
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+evaluating removing table #2
+evaluating adding table #13evaluating adding table #11change in space = 0change in revenue = -99REJECTING CANDIDATE SOLUTION
+Completed Iteration = 7
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 6.10
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+evaluating removing table #0
+evaluating adding table #5change in space = -3change in revenue = -35REJECTING CANDIDATE SOLUTION
+Completed Iteration = 8
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 1.22
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+evaluating removing table #3
+evaluating adding table #10change in space = -6change in revenue = -136REJECTING CANDIDATE SOLUTION
+Completed Iteration = 9
+Updating T... T_{'party': 12, 'timeslot': 2, 'party_size': 2, 'seated': 0} = 1.22
+
+
+
+
+--- 0.035041093826293945 seconds ---
+

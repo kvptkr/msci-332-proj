@@ -1,0 +1,190 @@
+Initialized parameters: T_0 = 288.60, alpha = 0.5, m = 3, k = 6, iterations = 18
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #0, adding table #10
+old revenue=1443
+Objective Function value after swaps 1309
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #12
+old revenue=1443
+Completed Iteration = 0
+Updating T... T_0 = 144.30
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+removing table #2, adding table #13
+old revenue=1443
+Objective Function value after swaps 1310
+ACCEPTING CANDIDATE WITH PROBABILITY 0.33790963872051305 < 0.3978457459987562
+Completed Iteration = 1
+Updating T... T_1 = 144.30
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+removing table #2, adding table #9
+old revenue=1443
+Objective Function value after swaps 1393
+ACCEPTING CANDIDATE WITH PROBABILITY 0.40605332269231287 < 0.7071585742565379
+Completed Iteration = 2
+Updating T... T_2 = 72.15
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+removing table #5, adding table #7
+old revenue=1443
+Objective Function value after swaps 1442
+ACCEPTING CANDIDATE WITH PROBABILITY 0.2528805367272515 < 0.9862355939140265
+Completed Iteration = 3
+Updating T... T_3 = 72.15
+
+
+RANDOMLY GENERATED TIMESLOT: 2
+removing table #0, adding table #7
+old revenue=1443
+Objective Function value after swaps 1360
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #13
+old revenue=1443
+Completed Iteration = 4
+Updating T... T_4 = 36.08
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #3, adding table #6
+old revenue=1443
+there's still more space, adding table #6
+old revenue=1443
+Completed Iteration = 5
+Updating T... T_5 = 36.08
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #3, adding table #6
+old revenue=1443
+there's still more space, adding table #14
+old revenue=1443
+Completed Iteration = 6
+Updating T... T_6 = 18.04
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+removing table #0, adding table #13
+old revenue=1443
+Objective Function value after swaps 1400
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #8
+old revenue=1443
+Completed Iteration = 7
+Updating T... T_7 = 18.04
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+removing table #4, adding table #8
+old revenue=1443
+Objective Function value after swaps 1734
+ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+there's still more space, adding table #10
+old revenue=1443
+Objective Function value after swaps 1512
+ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 8
+Updating T... T_8 = 9.02
+
+
+RANDOMLY GENERATED TIMESLOT: 5
+removing table #0, adding table #13
+old revenue=1443
+Objective Function value after swaps 1310
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #7
+old revenue=1443
+Completed Iteration = 9
+Updating T... T_9 = 9.02
+
+
+RANDOMLY GENERATED TIMESLOT: 3
+removing table #5, adding table #10
+old revenue=1443
+there's still more space, adding table #9
+old revenue=1443
+Completed Iteration = 10
+Updating T... T_10 = 4.51
+
+
+RANDOMLY GENERATED TIMESLOT: 6
+removing table #0, adding table #8
+old revenue=1443
+Objective Function value after swaps 1400
+REJECTING CANDIDATE SOLUTION
+Completed Iteration = 11
+Updating T... T_11 = 4.51
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #2, adding table #14
+old revenue=1443
+Objective Function value after swaps 1393
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #9
+old revenue=1443
+Completed Iteration = 12
+Updating T... T_12 = 2.25
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+removing table #0, adding table #7
+old revenue=1443
+Objective Function value after swaps 1600
+ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+there's still more space, adding table #6
+old revenue=1443
+Completed Iteration = 13
+Updating T... T_13 = 2.25
+
+
+RANDOMLY GENERATED TIMESLOT: 4
+removing table #5, adding table #8
+old revenue=1443
+there's still more space, adding table #9
+old revenue=1443
+Completed Iteration = 14
+Updating T... T_14 = 1.13
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+removing table #3, adding table #8
+old revenue=1443
+Objective Function value after swaps 1323
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #9
+old revenue=1443
+Objective Function value after swaps 1512
+ACCEPTING CANDIDATE SOLUTION, OBJ VAL INCREASED
+Completed Iteration = 15
+Updating T... T_15 = 1.13
+
+
+RANDOMLY GENERATED TIMESLOT: 1
+removing table #3, adding table #8
+old revenue=1443
+Objective Function value after swaps 1310
+REJECTING CANDIDATE SOLUTION
+there's still more space, adding table #6
+old revenue=1443
+Completed Iteration = 16
+Updating T... T_16 = 0.56
+
+
+RANDOMLY GENERATED TIMESLOT: 0
+removing table #3, adding table #6
+old revenue=1443
+there's still more space, adding table #9
+old revenue=1443
+Completed Iteration = 17
+Updating T... T_17 = 0.56
+
+
+
+
+--- 0.00751495361328125 seconds ---
+
